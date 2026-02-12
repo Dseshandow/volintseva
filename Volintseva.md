@@ -6,3 +6,7 @@
 <u>2009</u></br>
 <small>Самара</small></br>
 <small>живу в зАмке</small>
+</body>
+
+<head>
+<center>дист и куш</center>center><br>
