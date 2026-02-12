@@ -1,12 +1,14 @@
 <html>
 <head>
+<title>Волынцева</title>
 </head>
-<body>
-<big><b><i>Волынцева Екатерина Андреевна</i></b></big></center>
-<u>2009</u></br>
-<small>Самара</small></br>
-<small>живу в зАмке</small>
+<body bgcolor= 'pink'>
+<p><center><big><b><i>Волынцева Екатерина Андреевна</big></b></i></center></p>
+<p><u>Год рожения: 2009</u></br></p>
+<p><small>Место рождения: Самара</small></br></p>
+<p><small>Адрес: Дыбенко 114</small></br></p> 
+<p>Номер школы 176</p>
+<p><ul><<li>Мороженое<li>манго<li>киви</li></ul></p>
+<p><ol><li>Технология разработки программного обеспечения<il>Основы компьютерной графики</li></ol></p>
 </body>
-
-<head>
-<center>дист и куш</center>center><br>
+</html>
